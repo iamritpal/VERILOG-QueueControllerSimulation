@@ -1,0 +1,15 @@
+-- begin_signature
+-- QueueController
+-- end_signature
+WIDTH=1;
+DEPTH=4;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	3 :	0;
+	2 :	0;
+	1 :	0;
+	0 :	0;
+END;

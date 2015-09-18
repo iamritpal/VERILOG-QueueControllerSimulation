@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="chip">
+		<CBX_INST_ENTRY INSTANCE_NAME="|chip|QueueController:UU3|dpram:U21|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kmn1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|chip|QueueController:UU3|dpram:U22|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kmn1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|chip|QueueController:UU3|dpram:U23|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kmn1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|chip|QueueController:UU3|dpram:U24|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kmn1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

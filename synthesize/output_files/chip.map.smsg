@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at SerOutputCtrlr.v(29): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at QueueController.v(168): always construct contains both blocking and non-blocking assignments

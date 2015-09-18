@@ -1,0 +1,140 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Documents\Verilog Final\v1.0.10
+vchip
+Z1 IKJB@Vdn[MFD_Mg<08>0570
+Z2 VIVM^[;mEJ9C<SOC66;]i42
+Z3 dE:\Documents\Verilog Final\v1.0.10
+Z4 w1431723844
+Z5 8chip.v
+Z6 Fchip.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|chip.v|
+o-O0
+!i10b 1
+Z9 !s100 1NQHh5P1i;>B0lbK<2dOd2
+!s85 0
+Z10 !s108 1431723859.467000
+Z11 !s107 chip.v|
+!s101 -O0
+vchip_top
+!i10b 1
+!s100 cYJmCn_6d8W=^0G?2k:c=0
+Inoa7>^TUf6PM=7Xdh3GU_3
+Z12 V7CHYb;7iGKnO7lXonXRnF1
+R3
+w1431723967
+Z13 8chip_top.v
+Z14 Fchip_top.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1431724038.670000
+!s107 chip_top.v|
+Z15 !s90 -reportprogress|300|chip_top.v|
+!s101 -O0
+o-O0
+vdpram
+Z16 Ic9FYchKZlU^:agmXe@:SM1
+Z17 V:12giP01lE6J969e<W2720
+R3
+Z18 w1430428794
+Z19 8dpram.v
+Z20 Fdpram.v
+L0 39
+R7
+r1
+31
+o-O0
+Z21 !s100 _]3G[oWj>H]IMhS__lG<C3
+Z22 !s108 1431638992.462000
+Z23 !s107 dpram.v|
+Z24 !s90 -reportprogress|300|dpram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vframer
+Z25 IM>iLCYlii>EKnz`ki4di=1
+Z26 V]T>Jii1zDmm@Zz8RZNQYB3
+R3
+Z27 w1431051156
+Z28 8framer.v
+Z29 Fframer.v
+L0 9
+R7
+r1
+31
+o-O0
+Z30 !s100 <L19>ckz^P7QV2[9A>Wgj0
+Z31 !s108 1431639026.853000
+Z32 !s107 framer.v|
+Z33 !s90 -reportprogress|300|framer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vQueueController
+Z34 I6Sh[E;mT@YI^b07>YdhQ[3
+Z35 Vld?LP>g436iJQ38dR^UY`3
+R3
+Z36 w1431124016
+Z37 8QueueController.v
+Z38 FQueueController.v
+L0 8
+R7
+r1
+31
+o-O0
+Z39 n@queue@controller
+Z40 !s100 zfMaAm8?gMhUWgS7gLRzM2
+Z41 !s108 1431638971.947000
+Z42 !s107 QueueController.v|
+Z43 !s90 -reportprogress|300|QueueController.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSerOutputCtrlr
+Z44 !s100 aBIcNY5JCN?VVB3B5h4Qa0
+Z45 ILRO_YL4h;KHgM?47U[SFg2
+Z46 V`ceEWGnHgX72bTCSKKYfh1
+R3
+Z47 w1431124134
+Z48 8SerOutputCtrlr.v
+Z49 FSerOutputCtrlr.v
+L0 9
+R7
+r1
+31
+Z50 !s90 -reportprogress|300|SerOutputCtrlr.v|
+o-O0
+Z51 n@ser@output@ctrlr
+Z52 !s108 1431639031.275000
+Z53 !s107 SerOutputCtrlr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_gen
+Z54 I6kF:mXPb97>e8H:^99[VM3
+Z55 V]f0BEI<V@jFOLgoLIP4h^1
+R3
+Z56 w1431050174
+Z57 8tb_gen.v
+Z58 Ftb_gen.v
+L0 7
+R7
+r1
+31
+o-O0
+Z59 !s100 g:hScg^<bLiXQ98_61;LH2
+Z60 !s108 1431638977.712000
+Z61 !s107 tb_gen.v|
+Z62 !s90 -reportprogress|300|tb_gen.v|
+!i10b 1
+!s85 0
+!s101 -O0

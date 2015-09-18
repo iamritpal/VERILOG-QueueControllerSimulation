@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for Altera-->
+<ProgramExecution xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+	<QuartusExecution>
+		<AddressBits>32</AddressBits>
+		<ApplicationError>
+		<Bits>32</Bits>
+		<CommandLine>quartus</CommandLine>
+		<ErrorMessage>Int Divide By Zero</ErrorMessage>
+		<Line>0</Line>
+		<Platform>windows</Platform>
+		<SourceFile>unknown</SourceFile>
+		<StackTrace>
+	 0x51b53e54: (?ensureData@QPainterPath@@AAEXXZ + 0x394)
+	 0x51b54150: (?ensureData@QPainterPath@@AAEXXZ + 0x690)
+	 0x51b53765: (??D@YA?AVQPointF@@ABV0@ABVQTransform@@@Z + 0x285)
+	 0x6bbd165f: (safer_scalable_free_msvcr100 + 0xf)
+	 0x51bdc162: (?depth@QPaintDevice@@QBEHXZ + 0xe1e2)
+		</StackTrace>
+		<Subsystem>unknown</Subsystem>
+	</ApplicationError>
+	<Compilation>
+			<CompileID>0</CompileID>
+			<DeviceFamily/>
+			<IncrementalCompilation/>
+			<TopLevelEntityName/>
+		</Compilation>
+		<DateInvoked>2015/05/15 17:12:48</DateInvoked>
+		<ElapsedTime>2198</ElapsedTime>
+		<IP>216.37.103.241</IP>
+		<IsInternal>false</IsInternal>
+		<IsQt>true</IsQt>
+		<License>
+			<Edition>Web Edition</Edition>
+			<LicenseHostID/>
+		</License>
+		<Machine>
+			<CPUCountLogical>1</CPUCountLogical>
+			<CPUCountPhysical>1</CPUCountPhysical>
+			<CPUSpeed>2199</CPUSpeed>
+			<Hostname>amritpal-pc</Hostname>
+			<NIC>
+				<Address>00ff5492d67a</Address>
+			</NIC>
+			<NIC>
+				<Address>00aca8c7309e</Address>
+			</NIC>
+			<NIC>
+				<Address>08002723fa7d</Address>
+			</NIC>
+			<OS>Windows 7</OS>
+			<OSAddressBits>32</OSAddressBits>
+			<OSVersion>6.2</OSVersion>
+			<Platform>windows</Platform>
+			<ScreenResolution>unknown</ScreenResolution>
+			<TotalPhysicalRAM>3583</TotalPhysicalRAM>
+			<TotalVirtualRAM>512</TotalVirtualRAM>
+		</Machine>
+		<Name>quartus</Name>
+		<PeakMemoryUsed>0</PeakMemoryUsed>
+		<ProjectRevision>
+			<ProjectName/>
+			<Revision/>
+		</ProjectRevision>
+		<QuartusInstallation>
+			<InstallationID>1096635569786.143006383515868</InstallationID>
+			<Version>
+				<Build>162</Build>
+				<BuildSite>SJ</BuildSite>
+				<BuildSuffix/>
+				<Edition>Web Edition</Edition>
+				<ServicePack>0</ServicePack>
+				<VersionNumber>13.1</VersionNumber>
+			</Version>
+		</QuartusInstallation>
+		<QuartusUser>
+			<AlteraUserName/>
+			<FAEContactName/>
+			<TalkbackStatus>
+				<DateSet/>
+				<TalkbackOn>true</TalkbackOn>
+			</TalkbackStatus>
+			<UserID>1096635569786.143006384115808</UserID>
+			<UserName>amritpal</UserName>
+		</QuartusUser>
+	</QuartusExecution>
+	<SchemaVersion>schema_2013-01-18</SchemaVersion>
+</ProgramExecution>
+
